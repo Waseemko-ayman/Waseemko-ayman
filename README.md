@@ -1,5 +1,5 @@
 <h1 align="center">Hi Dear 👋, I'm Waseem Abd Elhadi</h1>
-<h3 align="center">Software Engineer </> with +2 year experience in Front-End Developer💻</h3>
+<h3 align="center">Software Engineer, with +2 year experience in Front-End Developer💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waseemko-ayman&label=Profile%20views&color=0e75b6&style=flat" alt="waseemko-ayman" /> </p>
 
