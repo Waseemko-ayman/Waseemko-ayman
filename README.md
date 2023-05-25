@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/waseemabdalhady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waseemabdalhady" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/waseem-abd-elhadi-1b293624b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseem abd elhadi" height="30" width="40" /></a>
-<a href="https://www.behance.net/waseemabdelhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="waseem abd elhadi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
