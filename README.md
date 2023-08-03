@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/waseemabdelhadi](https://www.behance.net/waseemabdelhadi)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React.js**
 
 - 📫 How to reach me **waseem.abedalhady@gmail.com**
 
