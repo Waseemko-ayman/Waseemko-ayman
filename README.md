@@ -1,5 +1,5 @@
 <h1 align="left">About Me 👋</h1>
-<h3 align="center">Software Engineer, Proficient Front-End Developer with over +3 years of experience in planning, designing, and implementing high-quality websites.💻 with a strong ability to troubleshoot complex technical issues while meeting deadlines and client expectations. Quick learner of new technologies to enhance user experience and optimize websites.</h3>
+<p align="center">Software Engineer, Proficient Front-End Developer with over +3 years of experience in planning, designing, and implementing high-quality websites. with a strong ability to troubleshoot complex technical issues while meeting deadlines and client expectations. Quick learner of new technologies to enhance user experience and optimize websites. 💻</p>
 <br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Waseemko-ayman" alt="Waseemko-ayman" /></a> </p>
 
