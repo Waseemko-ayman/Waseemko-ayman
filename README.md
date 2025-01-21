@@ -6,20 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/waseemabdalhady" target="blank"><img src="https://img.shields.io/twitter/follow/waseemabdalhady?logo=twitter&style=for-the-badge" alt="waseemabdalhady" /></a> </p>
 
-- 🔭 I’m currently working on **Front-End Development**
-
 - 👨‍💻 All of my projects are available at [https://www.behance.net/waseemabdelhadi](https://www.behance.net/waseemabdelhadi)
-
 - 📫 How to reach me **wasimabdelhadi78@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/waseemabdalhady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waseemabdalhady" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/waseem-abd-elhadi-1b293624b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseem abd elhadi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,ts,nextjs,express,nestjs,materialui,styledcomponents,tailwind,git,github,gitlab,npm,yarn,docker,mongodb,firebase,netlify,jest,postman,vscode,figma,devto,discord,obsidian,notion,md,gmail" alt="Tech Stack Icons" style="transition: transform 0.2s; border-radius: 10px; border: 2px solid #fff; padding: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+<h3 align="left">Languages and Tools</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,,nextjs,ts,materialui,styledcomponents,tailwind,git,github,gitlab,npm,yarn,firebase,netlify,postman,vscode,figma,discord" alt="Tech Stack Icons" style="transition: transform 0.2s; border-radius: 10px; border: 2px solid #fff; padding: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waseemko-ayman&show_icons=true&locale=en&layout=compact" alt="waseemko-ayman" /></p>
