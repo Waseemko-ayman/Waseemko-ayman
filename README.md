@@ -18,8 +18,10 @@
 <h3 align="left">Languages and Tools</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,ts,materialui,styledcomponents,tailwind,git,github,gitlab,npm,yarn,firebase,netlify,postman,vscode,figma,discord" alt="Tech Stack Icons" style="transition: transform 0.2s; border-radius: 10px; border: 2px solid #fff; padding: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waseemko-ayman&show_icons=true&locale=en&layout=compact" alt="waseemko-ayman" /></p>
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waseemko-ayman&show_icons=true&locale=en&layout=compact" alt="waseemko-ayman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waseemko-ayman&" alt="waseemko-ayman" /></p>
+</div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Waseemko-ayman" alt="Waseemko-ayman" /></a> </p>
