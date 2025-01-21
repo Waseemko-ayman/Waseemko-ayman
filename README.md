@@ -10,12 +10,14 @@
 - 📫 How to reach me **wasimabdelhadi78@gmail.com**
 
 <h3 align="left">Connect with me</h3>
+<hr />
 <p align="left">
 <a href="https://twitter.com/waseemabdalhady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waseemabdalhady" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/waseem-abd-elhadi-1b293624b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseem abd elhadi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
+<hr />
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,ts,materialui,styledcomponents,tailwind,git,github,gitlab,npm,yarn,firebase,netlify,postman,vscode,figma,discord" alt="Tech Stack Icons" style="transition: transform 0.2s; border-radius: 10px; border: 2px solid #fff; padding: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
 
 <div align="center">
