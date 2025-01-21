@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/waseemabdalhady" target="blank"><img src="https://img.shields.io/twitter/follow/waseemabdalhady?logo=twitter&style=for-the-badge" alt="waseemabdalhady" /></a> </p>
 
-- <p>👨‍💻 All of my projects are available at</p> [https://www.behance.net/waseemabdelhadi](https://www.behance.net/waseemabdelhadi)
-- <p>📫 How to reach me</p> **wasimabdelhadi78@gmail.com**
+- 👨‍💻 All of my projects are available at [https://www.behance.net/waseemabdelhadi](https://www.behance.net/waseemabdelhadi)
+- 📫 How to reach me: **wasimabdelhadi78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
