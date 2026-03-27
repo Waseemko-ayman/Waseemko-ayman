@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/waseemabdalhady" target="blank"><img src="https://img.shields.io/twitter/follow/waseemabdalhady?logo=twitter&style=for-the-badge" alt="waseemabdalhady" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/waseemabdelhadi](https://www.behance.net/waseemabdelhadi)
+- 👨‍💻 Projects: [Portfolio](https://waseem-portfolio-phi.vercel.app/en) | [Behance](https://www.behance.net/waseemabdelhadi)
 - 📫 How to reach me: **wasimabdelhadi78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
