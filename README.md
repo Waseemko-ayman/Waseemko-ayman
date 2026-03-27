@@ -1,10 +1,5 @@
 <h1 align="left">About Me 👋</h1>
-<p align="left">Frontend Developer with <strong>3+ years</strong> of experience specializing in <strong>React.js, Next.js, and TypeScript</strong>.<br />
-I build <strong>responsive, scalable, and high-performance web applications</strong> with a strong focus on user experience.<br />
-Experienced in <strong>API integration, state management, and modern frontend architecture</strong>.<br />
-Skilled in building <strong>reusable components</strong> and <strong>optimizing application performance</strong>.<br />
-Passionate about <strong>clean code</strong> and <strong>continuous learning</strong>.<br />
-Currently open to <strong>Frontend Developer opportunities (Remote / On-site)</strong>. 💻</p>
+<p align="left">Frontend Developer with <strong>3+ years</strong> of experience specializing in <strong>React.js, Next.js, and TypeScript</strong>, focused on building <strong>responsive, scalable, and high-performance web applications</strong> with a strong focus on user experience. Experienced in <strong>API integration, state management, and modern frontend architecture</strong>, skilled in building <strong>reusable components</strong> and <strong>optimizing application performance</strong>. Passionate about <strong>clean code</strong> and <strong>continuous learning</strong>, currently open to <strong>Frontend Developer opportunities (Remote / On-site)</strong>. 💻</p>
 <br />
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
